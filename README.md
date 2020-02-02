@@ -1,2 +1,3 @@
 # inf510_project
-USC INF 510 FALL 2019 FINAL PROJECT
+# NBA_Time_Series_Analysis
+
