@@ -1,5 +1,3 @@
-# NBA_Time_Series_Analysis (inf510 fall 2019 Final Project)
-
 ### How to run the code
 
 This project requires the following packages:
